@@ -8,7 +8,7 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 
-		frases[0] = "Bom dia! Que hoje seja o início de uma jornada cheia de conquistas e alegrias";
+		frases[0] = "Bom dia! Que hoje seja o início de uma jornada cheia de conquistas e alegrias.";
 		frases[1] = "A luz do Sol é um lembrete de que cada dia é uma nova oportunidade para brilhar. Bom dia!";
 		frases[2] = "Que este dia traga sorriso, abraços e muita positividade. Bom dia!";
 		frases[3] = "A cada amanhecer, renovam-se as esperanças. Bom dia, que seu dia seja repleto de realizações!";

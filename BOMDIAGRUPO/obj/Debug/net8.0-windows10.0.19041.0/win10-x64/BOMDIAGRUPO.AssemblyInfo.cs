@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BOMDIAGRUPO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c01aec444214792c57341eef508c9135123803df")]
 [assembly: System.Reflection.AssemblyProductAttribute("BOMDIAGRUPO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BOMDIAGRUPO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
